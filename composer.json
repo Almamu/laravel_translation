@@ -1,6 +1,6 @@
 {
-    "name": "kislota/laravel_8_translation",
-    "description": "A Translation package for Laravel 5 with database and cache support",
+    "name": "Almamu/laravel_translation",
+    "description": "A Translation package for Laravel 5 and up with database and cache support",
     "keywords": [
         "waavi",
         "laravel-translator",
@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "laravel/framework": "^6.0|^7.0|^8.0",
+        "laravel/framework": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
         "doctrine/dbal": "^2.5"
     },
     "require-dev": {
