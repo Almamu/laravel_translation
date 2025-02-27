@@ -1,5 +1,5 @@
 {
-    "name": "Almamu/laravel_translation",
+    "name": "almamu/laravel_translation",
     "description": "A Translation package for Laravel 5 and up with database and cache support",
     "keywords": [
         "waavi",
